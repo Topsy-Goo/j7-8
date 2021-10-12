@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+### это тоже ###
+/logs/
+/cloud/
+*.class
+/desktop.ini
+/земетки.txt
+/backup.files/
